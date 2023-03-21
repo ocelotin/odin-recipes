@@ -1,17 +1,24 @@
 body{
     background-color: #99DD88;
+    text-align: center;
 }
 
-.title{
+
+h1{
     text-align: center;
     color: #33DDAA;
     background-color: #DDFFEE;
 }
 
-.recipes{
+ul,
+ol{
     text-align: left;
     display: table;
     margin: 0 auto;
     font-size: 19px;
 }
 
+img{
+    width: 300px;
+    height: auto;
+}
