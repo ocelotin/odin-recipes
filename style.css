@@ -1,0 +1,17 @@
+body{
+    background-color: #99DD88;
+}
+
+.title{
+    text-align: center;
+    color: #33DDAA;
+    background-color: #DDFFEE;
+}
+
+.recipes{
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+    font-size: 19px;
+}
+
